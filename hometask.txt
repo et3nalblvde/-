@@ -1,0 +1,13 @@
+-Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
++Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+commits:
+b3cc728 (HEAD -> master, origin/master, origin/HEAD) Merge remote-tracking branch 'origin/hat'
+31e57d8 Merge branch 'boots_buttons'
+dcd290b (origin/boots_buttons, boots_buttons) Merge remote-tracking branch 'origin/boots' into boots_buttons
+df455a7 fix readme
+1db7b7a (origin/buttons) dots
+079fa1b README added
+152f859 (origin/boots) boots
+949c4a1 (origin/hat) heat added
+7d5cd9d init
+9 commits
